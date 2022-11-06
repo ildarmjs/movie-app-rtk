@@ -1,0 +1,6 @@
+.card {
+  @apply h-[255px] overflow-hidden p-2
+}
+.card_image {
+  @apply rounded-[20px] cursor-pointer object-cover  h-full w-full
+}

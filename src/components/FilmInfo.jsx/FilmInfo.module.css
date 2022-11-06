@@ -1,0 +1,25 @@
+.card {
+	font-family: 'Montserrat', sans-serif;
+	@apply flex justify-around flex-wrap-reverse text-center
+}
+.card__item {
+	@apply self-center
+}
+.card__header{
+	@apply text-3xl font-bold text-center mb-4
+}
+.card__year{ 
+	@apply mb-3
+}
+.card__rate{
+	@apply mb-4
+}
+.card__cast{
+	@apply mt-4 mb-4
+}
+.loader {
+	@apply absolute left-1/3 top-1/2 text-4xl
+}
+.arrow_back {
+	@apply w-5 h-5 mb-4
+}

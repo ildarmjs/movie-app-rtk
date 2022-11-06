@@ -1,0 +1,6 @@
+.header {
+	@apply text-3xl mb-4
+}
+.slider {
+	@apply p-4
+}
