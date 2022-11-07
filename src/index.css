@@ -6,7 +6,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Julee&family=Montserrat:wght@600;700&display=swap');
 .body {
   font-family: 'Julee', cursive;
-  @apply overflow-x-hidden text-white bg-repeat-y bg-cover h-[100vh]  bg-[url("https://wallpapercave.com/wp/wp3340062.jpg")]
+  @apply overflow-x-hidden text-white bg-repeat-y bg-cover h-[100vh]  bg-[url("./assets/images/bg.jpg")]
+  /* @apply overflow-x-hidden text-white bg-repeat-y bg-cover h-[100vh]  bg-[url("https://wallpapercave.com/wp/wp3340062.jpg")] */
 }
 .wrapper {
   @apply max-w-[1000px] px-4 mx-auto 
