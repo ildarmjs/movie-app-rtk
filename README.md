@@ -8,8 +8,8 @@
 
 ### Скрины
 
-![Image](https://github.com/ildarmjs/weather-app/raw/main/screenshot/home.jpg)
-![Image](https://github.com/ildarmjs/weather-app/raw/main/screenshot/info.jpg)
+![Image](https://github.com/ildarmjs/movie-app-rtk/raw/main/screenshot/home.jpg)
+![Image](https://github.com/ildarmjs/movie-app-rtk/raw/main/screenshot/info.jpg)
 
 <br/>
 
