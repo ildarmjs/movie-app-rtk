@@ -6,6 +6,12 @@
 
 <br/>
 
+### Скрины
+
+![Image](https://github.com/ildarmjs/weather-app/raw/main/screenshot/home.jpg)
+![Image](https://github.com/ildarmjs/weather-app/raw/main/screenshot/info.jpg)
+
+<br/>
 
 ## Стек
 
@@ -17,11 +23,10 @@
 - JavaScript
 - React
   - React-redux
-  - Redux-toolkit 
+  - Redux-toolkit
   - React-router-dom
   - React icons
   - React slick
-  
 
 <br />
 
